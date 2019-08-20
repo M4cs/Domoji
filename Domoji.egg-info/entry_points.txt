@@ -1,3 +1,0 @@
-[console_scripts]
-domoji = domoji.__main__:menu
-
