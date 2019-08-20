@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: Domoji
+Version: 1.1
+Summary: Find Emoji Domains From The Command Line (Works on MacOS and Terminals That Accept Emojis
+Home-page: https://github.com/M4cs/Domoji
+Author: Max Bridgland
+Author-email: mabridgland@protonmail.com
+License: UNKNOWN
+Description: # Domoji
+        Emoji Domain Finder in The Command Line - Airplane Project #3
+        
+        ## Setup
+        
+        Run:
+        ```
+        pip install domoji
+        
+        domoji
+        ```
+        
+        Command line will guide you. Works with terminals that accept Emojis! (Sorry Windows Users)
+        
+Keywords: domains,api,wrapper,emoji,emojicode,macOS
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Multimedia :: Graphics
+Description-Content-Type: text/markdown

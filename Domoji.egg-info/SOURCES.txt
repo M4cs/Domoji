@@ -1,0 +1,11 @@
+README.md
+setup.py
+Domoji.egg-info/PKG-INFO
+Domoji.egg-info/SOURCES.txt
+Domoji.egg-info/dependency_links.txt
+Domoji.egg-info/entry_points.txt
+Domoji.egg-info/requires.txt
+Domoji.egg-info/top_level.txt
+domoji/__init__.py
+domoji/__main__.py
+domoji/lib.py

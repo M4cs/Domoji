@@ -9,7 +9,7 @@ def readme():
     
 setuptools.setup(
     name="Domoji",
-    version="1.0",
+    version="1.1",
     author="Max Bridgland",
     install_requires=[
         'requests==2.21.0',
