@@ -12,7 +12,7 @@ setuptools.setup(
     version="1.1",
     author="Max Bridgland",
     install_requires=[
-        'requests==2.21.0',
+        'requests==2.31.0',
         'terminaltables==3.1.0',
         'crayons==0.2.0',
         'colorama==0.4.1'
